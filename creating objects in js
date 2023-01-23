@@ -8,3 +8,9 @@ var housekeeper1 = {
 
 
 // running this at console we get 
+housekeeper1;
+{yO: 12, n: 'January', cR: Array(2)}
+housekeeper1.n;
+'January'
+housekeeper1.yO;
+12
