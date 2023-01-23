@@ -5,3 +5,6 @@ var housekeeper1 = {
   cR:["bathroom","bedroom"]
 
 }
+
+
+// running this at console we get 
