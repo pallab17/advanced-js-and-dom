@@ -1,4 +1,5 @@
 // syntax of constructor function
+// functionname starting alphabet will be capital no camelcasing using during creating a constructor function
 // function functionname(parameters){
 }
 
@@ -11,5 +12,9 @@ this.parameter2=parameter2;
 
 }
 
+
+// syntax of creating a object which will be using this contructor function
+
+var variablename = new functionname(value1,value2);
 
 
