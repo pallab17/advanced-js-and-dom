@@ -1,1 +1,7 @@
 
+var housekeeper1 = {
+  yO:12,
+  n:"January",
+  cR:["bathroom","bedroom"]
+
+}
