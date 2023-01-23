@@ -7,3 +7,11 @@ function HouseKeeper(yOE,n,cR){
   this.n=n;
   this.cR=cR;
 }
+
+
+// creating a object using a constructor function
+var housekeeper1 = new HouseKeeper(9,"to",["bath","lobby"]);
+undefined
+console.log(housekeeper1.n);
+VM399:1 to
+undefined
