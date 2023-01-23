@@ -1,1 +1,9 @@
 
+
+
+// constructor fn
+function HouseKeeper(yOE,n,cR){
+  this.yOE=yOE;
+  this.n=n;
+  this.cR=cR;
+}
