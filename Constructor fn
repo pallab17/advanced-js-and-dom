@@ -1,0 +1,15 @@
+// syntax of constructor function
+// function functionname(parameters){
+}
+
+
+//eg
+ function functionname(parameter1,parameter2){
+this.parameter1=parameter1;
+this.parameter2=parameter2;
+
+
+}
+
+
+
