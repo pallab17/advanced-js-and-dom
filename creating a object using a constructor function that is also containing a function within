@@ -10,3 +10,9 @@ function HouseKeeper(yOE,n,cR){
 }
 
 
+//
+var housekeeper1 = new HouseKeeper(12,"pal",["bathroom"]);
+undefined
+housekeeper1.clean();
+undefined
+
