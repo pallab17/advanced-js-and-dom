@@ -19,3 +19,9 @@ document.addEventListener("keydown",function(event) {
 // tai eventlistener check kore
 // je jodi je user je event ta khujche === sei event tai ki ghoteche ( eg keypress in our project)
 // taholei callback fn ke trigger korbe tarmane taholei callback fn ke use kore as a dalal/broker event information send korbe.
+
+
+
+//document.addEventListener("keydown",function(event) {
+                           console.log(event);
+             }) ;
