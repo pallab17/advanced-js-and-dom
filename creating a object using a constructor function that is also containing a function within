@@ -1,4 +1,5 @@
 
+// constructor fn banachi and inside that creating a  normal function
 function HouseKeeper(yOE,n,cR){
   this.yOE=yOE;
   this.n=n;
@@ -7,3 +8,5 @@ function HouseKeeper(yOE,n,cR){
     alert("clean korchi");
   }
 }
+
+
