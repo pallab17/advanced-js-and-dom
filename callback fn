@@ -3,3 +3,8 @@
 document.addEventListener("keydown",function(event) {
                            makeAwaj(event.key);
              }) ;
+
+// ekhane addEventListener acts a higher order fn 
+// aar function(event) acts as a callback fn
+// eibar bepar ta hocche amra kintu callback fn take call korina
+// 
