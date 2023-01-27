@@ -31,4 +31,4 @@ document.addEventListener("keydown",function(event) {
     // tarpor check korche je ami ki event chaichi aar ki event ghoteche 
     //  keydown event ( mane key pressig event ) 
     //  jehetu keydown event ghoteche plus ebong ami cheyeochi je jodi keyboard press hoye then amake object r info diyo
-    
+    // tai eventlistner event r object jeta create koreche with info about the event
