@@ -7,4 +7,4 @@ document.addEventListener("keydown",function(event) {
 // ekhane addEventListener acts a higher order fn 
 // aar function(event) acts as a callback fn
 // eibar bepar ta hocche amra kintu callback fn take call korina
-// 
+// je object/element/mal ta event or click take experience korche se call korche callback fn take
