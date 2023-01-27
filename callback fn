@@ -17,3 +17,5 @@ document.addEventListener("keydown",function(event) {
 // programmer chaile ei object/event r info ta request kore dekhte pare using callback method/fn
 // eibar callback fn to sobsomoye call hoyena sob event r jonno 
 // tai eventlistener check kore
+// je jodi je user je event ta khujche === sei event tai ki ghoteche ( eg keypress in our project)
+// taholei callback fn ke trigger korbe tarmane taholei callback fn ke use kore as a dalal/broker event information send korbe.
