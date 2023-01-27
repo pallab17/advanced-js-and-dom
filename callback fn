@@ -8,3 +8,5 @@ document.addEventListener("keydown",function(event) {
 // aar function(event) acts as a callback fn
 // eibar bepar ta hocche amra kintu callback fn take call korina
 // je object/element/mal ta event or click take experience korche se call korche callback fn take
+// eita howar por amra event r bepare kichu information pai 
+// like drumkit project taye kon key pressed hoyeche ebong kotokhun press hoyeche tar sathe baki information gulo pai amra
