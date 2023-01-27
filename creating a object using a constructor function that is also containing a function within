@@ -10,7 +10,7 @@ function HouseKeeper(yOE,n,cR){
 }
 
 
-//
+// creating a object named housekeeper1  and ei object ta diye oi normal function take use korachi jeta constructor fn r bhetore ache
 var housekeeper1 = new HouseKeeper(12,"pal",["bathroom"]);
 undefined
 housekeeper1.clean();
