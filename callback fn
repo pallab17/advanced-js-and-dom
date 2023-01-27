@@ -14,4 +14,6 @@ document.addEventListener("keydown",function(event) {
 
 // ebar ekta event listener jokhun ekta event hoye 
 // tarpor ekta object create kore jetar modhe event details thake
-// programmer chaile ei object/event r info ta request kore dekhte pare using callback method
+// programmer chaile ei object/event r info ta request kore dekhte pare using callback method/fn
+// eibar callback fn to sobsomoye call hoyena sob event r jonno 
+// tai eventlistener check kore
