@@ -32,3 +32,11 @@ document.addEventListener("keydown",function(event) {
     //  keydown event ( mane key pressig event ) 
     //  jehetu keydown event ghoteche plus ebong ami cheyeochi je jodi keyboard press hoye then amake object r info diyo
     // tai eventlistner event r object jeta create koreche with info about the event
+    // sei object with info take send korbe to me through/using the callback fn { function(event) - jeta ei eg unujai amader callback fn }
+    // byash holo eitar concept
+    
+    
+    
+    
+    
+    
