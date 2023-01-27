@@ -25,3 +25,10 @@ document.addEventListener("keydown",function(event) {
 //document.addEventListener("keydown",function(event) {
                            console.log(event);
              }) ;
+             
+    // ebar jodi  ami keyboard e p press kori tahole
+    // event listener ekta object create korbe about the event(pressing p in the keyboard is the event)
+    // tarpor check korche je ami ki event chaichi aar ki event ghoteche 
+    //  keydown event ( mane key pressig event ) 
+    //  jehetu keydown event ghoteche plus ebong ami cheyeochi je jodi keyboard press hoye then amake object r info diyo
+    
